@@ -15,7 +15,7 @@ To use this app, fill out the prompts that the app generates and once these ques
 ## Credits
 
 ## Screenshot
-
+![Alt text](/relative/path/to/img.png?raw=true "Read Me ScreenShot")
 N/A
 
 ## License
