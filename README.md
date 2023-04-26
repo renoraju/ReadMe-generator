@@ -15,7 +15,7 @@ To use this app, fill out the prompts that the app generates and once these ques
 ## Credits
 
 ## Screenshot
-![Alt text](/relative/path/to/img.png?raw=true "Read Me ScreenShot")
+![Readme Generator](https://user-images.githubusercontent.com/124632375/234692125-43a8caba-39c7-4f8f-bbbc-3e6ee2a90350.PNG)
 N/A
 
 ## License
