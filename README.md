@@ -6,7 +6,8 @@
 This is an app that dynamically creates ReadMes through node
 
 ## Installation/URL
-
+Video demonstration how the ReadMe generator app works.
+https://drive.google.com/file/d/1dgpfAZ3jHNsF1nHgLJvR58M1dNwxrCQJ/view?usp=sharing
 
 ## Usage
 
